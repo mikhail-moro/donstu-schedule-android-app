@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DONSTU_ScheduleApp</string>
+    <string name="main_button">Получить данные</string>
+</resources>
